@@ -25,7 +25,6 @@ public class Question {
         playerAnswer = -1;
     }
 
-    // Add isCorrect() here
 
     public boolean isCorrect(){
         boolean isCorrectValue;

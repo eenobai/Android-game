@@ -1,7 +1,7 @@
 public class MainActivity {
 
 
-// Add generateRandomNumber() here
+
 public int generateRandomNumber(int max){
   double randomNumber = Math.random() * max;
 
@@ -9,7 +9,7 @@ public int generateRandomNumber(int max){
 
   return rndNumber;
 }
-// Add getGameOverMessage() here
+
 
 public String getGameOverMessage(int totalCorrect, int totalQuestions){
   String returnMsg;
